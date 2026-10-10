@@ -1,3 +1,4 @@
+//https://youtu.be/klqS2nwLpZo
 // variables principales
 let imagenes = [];
 let cantidadEscenas = 24;
